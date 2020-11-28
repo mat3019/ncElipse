@@ -9,7 +9,6 @@
 #include <ncine/Sprite.h>
 #include <ncine/Texture.h>
 
-
 const char* Texture2File = "C:\\Users\\Utilizzatore\\Desktop\\ncine\\ncline\\Test-data\\data\\fire2.png";
 const char* Earth = "C:\\Users\\Utilizzatore\\Desktop\\ncine\\ncline\\Test-data\\data\\Earth.png";
 const char* Sun = "C:\\Users\\Utilizzatore\\Desktop\\ncine\\ncline\\Test-data\\data\\Sun.png";
