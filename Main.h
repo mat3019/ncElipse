@@ -23,7 +23,6 @@ class MyEventHandler :
     public nc::IInputEventHandler
 {
   public:
-
 	void onPreInit(nc::AppConfiguration &config) override;
 
 	void onInit() override;
@@ -31,7 +30,6 @@ class MyEventHandler :
 	void onFrameStart() override;
 
 	void onKeyReleased(const nc::KeyboardEvent &event) override;
-
 private:
 	nctl::UniquePtr<nc::Texture> cube_TEX;
 	nctl::UniquePtr<nc::Sprite>cube_SPR;
