@@ -7,7 +7,6 @@
 #include <ncine/Sprite.h>
 #include <ncine/FileSystem.h> 
 #include <ncine/imgui.h>
-#include <fstream>
 #include <math.h>
 
 const char* Texture2File = "C:\\Users\\Utilizzatore\\Desktop\\ncine\\ncline\\Test-data\\data\\fire2.png";
